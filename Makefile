@@ -1,3 +1,6 @@
+# SPDX-License-Identifier: 0BSD
+# SPDX-FileCopyrightText: 2026 lifehackerhansol
+
 DST_DIR	?= $(CURDIR)/out
 
 SRC_DIR_LANG	:=	$(CURDIR)/language
